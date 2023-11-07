@@ -1,0 +1,16 @@
+name: compass-service
+id: ari:cloud:compass:3c6f88f2-2c38-4b9b-8147-b3c4a677bfb0:component/95e50b89-e15b-494e-a601-da0aba4a3b2b/3208116d-9cc2-43ab-9b52-4e4650b201f8
+description: Test Repository hosting an example component for a demo of Atlassian Compass
+configVersion: 1
+typeId: SERVICE
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/ThaterTech/compass-service
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
