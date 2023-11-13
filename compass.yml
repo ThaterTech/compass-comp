@@ -10,6 +10,9 @@ links:
   - name: null
     type: REPOSITORY
     url: https://github.com/ThaterTech/compass-service
+  - name: Compass Service channel
+    type: CHAT_CHANNEL
+    url: https://teams.microsoft.com/l/channel/19%3aab547fdf18e54930814cd4a508ab760b%40thread.tacv2/Start%2520Stop%2520Continue?groupId=606678cf-a3ee-47e9-8945-fcd3ff87b8b0&tenantId=5806a2c4-1aed-4e71-8941-2a3191659ebb
 relationships:
   DEPENDS_ON: 
     - ari:cloud:compass:3c6f88f2-2c38-4b9b-8147-b3c4a677bfb0:component/95e50b89-e15b-494e-a601-da0aba4a3b2b/1bac5d58-85a5-4d08-98c2-0aa8cd01d03e
